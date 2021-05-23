@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.35fbad93.chunk.js",
-    "main.js.map": "/static/js/main.35fbad93.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9036573b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9036573b.js.map",
-    "static/js/2.d0c54693.chunk.js": "/static/js/2.d0c54693.chunk.js",
-    "static/js/2.d0c54693.chunk.js.map": "/static/js/2.d0c54693.chunk.js.map",
-    "static/js/3.0c8997cf.chunk.js": "/static/js/3.0c8997cf.chunk.js",
-    "static/js/3.0c8997cf.chunk.js.map": "/static/js/3.0c8997cf.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.d0c54693.chunk.js.LICENSE.txt": "/static/js/2.d0c54693.chunk.js.LICENSE.txt",
-    "static/media/cclogo.a03e46db.png": "/static/media/cclogo.a03e46db.png",
-    "static/media/cflogo.313c4e55.png": "/static/media/cflogo.313c4e55.png",
-    "static/media/cybros.88eb4129.png": "/static/media/cybros.88eb4129.png",
-    "static/media/ecell.738d072f.jpg": "/static/media/ecell.738d072f.jpg",
-    "static/media/helogo.e31a1a17.png": "/static/media/helogo.e31a1a17.png",
-    "static/media/home1.1b9f0386.jpeg": "/static/media/home1.1b9f0386.jpeg",
-    "static/media/ig.2a73bbfa.png": "/static/media/ig.2a73bbfa.png",
-    "static/media/lclogo.42e70bbd.png": "/static/media/lclogo.42e70bbd.png"
+    "main.js": "/vishwasmodi/static/js/main.35fbad93.chunk.js",
+    "main.js.map": "/vishwasmodi/static/js/main.35fbad93.chunk.js.map",
+    "runtime-main.js": "/vishwasmodi/static/js/runtime-main.0850ab66.js",
+    "runtime-main.js.map": "/vishwasmodi/static/js/runtime-main.0850ab66.js.map",
+    "static/js/2.25a4b588.chunk.js": "/vishwasmodi/static/js/2.25a4b588.chunk.js",
+    "static/js/2.25a4b588.chunk.js.map": "/vishwasmodi/static/js/2.25a4b588.chunk.js.map",
+    "static/js/3.0c8997cf.chunk.js": "/vishwasmodi/static/js/3.0c8997cf.chunk.js",
+    "static/js/3.0c8997cf.chunk.js.map": "/vishwasmodi/static/js/3.0c8997cf.chunk.js.map",
+    "index.html": "/vishwasmodi/index.html",
+    "static/js/2.25a4b588.chunk.js.LICENSE.txt": "/vishwasmodi/static/js/2.25a4b588.chunk.js.LICENSE.txt",
+    "static/media/cclogo.a03e46db.png": "/vishwasmodi/static/media/cclogo.a03e46db.png",
+    "static/media/cflogo.313c4e55.png": "/vishwasmodi/static/media/cflogo.313c4e55.png",
+    "static/media/cybros.88eb4129.png": "/vishwasmodi/static/media/cybros.88eb4129.png",
+    "static/media/ecell.738d072f.jpg": "/vishwasmodi/static/media/ecell.738d072f.jpg",
+    "static/media/helogo.e31a1a17.png": "/vishwasmodi/static/media/helogo.e31a1a17.png",
+    "static/media/home1.1b9f0386.jpeg": "/vishwasmodi/static/media/home1.1b9f0386.jpeg",
+    "static/media/ig.2a73bbfa.png": "/vishwasmodi/static/media/ig.2a73bbfa.png",
+    "static/media/lclogo.42e70bbd.png": "/vishwasmodi/static/media/lclogo.42e70bbd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9036573b.js",
-    "static/js/2.d0c54693.chunk.js",
+    "static/js/runtime-main.0850ab66.js",
+    "static/js/2.25a4b588.chunk.js",
     "static/js/main.35fbad93.chunk.js"
   ]
 }
