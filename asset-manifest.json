@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/vishwasmodi/static/js/main.35fbad93.chunk.js",
-    "main.js.map": "/vishwasmodi/static/js/main.35fbad93.chunk.js.map",
+    "main.js": "/vishwasmodi/static/js/main.c54659d1.chunk.js",
+    "main.js.map": "/vishwasmodi/static/js/main.c54659d1.chunk.js.map",
     "runtime-main.js": "/vishwasmodi/static/js/runtime-main.0850ab66.js",
     "runtime-main.js.map": "/vishwasmodi/static/js/runtime-main.0850ab66.js.map",
-    "static/js/2.25a4b588.chunk.js": "/vishwasmodi/static/js/2.25a4b588.chunk.js",
-    "static/js/2.25a4b588.chunk.js.map": "/vishwasmodi/static/js/2.25a4b588.chunk.js.map",
+    "static/js/2.39e58428.chunk.js": "/vishwasmodi/static/js/2.39e58428.chunk.js",
+    "static/js/2.39e58428.chunk.js.map": "/vishwasmodi/static/js/2.39e58428.chunk.js.map",
     "static/js/3.0c8997cf.chunk.js": "/vishwasmodi/static/js/3.0c8997cf.chunk.js",
     "static/js/3.0c8997cf.chunk.js.map": "/vishwasmodi/static/js/3.0c8997cf.chunk.js.map",
     "index.html": "/vishwasmodi/index.html",
-    "static/js/2.25a4b588.chunk.js.LICENSE.txt": "/vishwasmodi/static/js/2.25a4b588.chunk.js.LICENSE.txt",
+    "static/js/2.39e58428.chunk.js.LICENSE.txt": "/vishwasmodi/static/js/2.39e58428.chunk.js.LICENSE.txt",
     "static/media/cclogo.a03e46db.png": "/vishwasmodi/static/media/cclogo.a03e46db.png",
     "static/media/cflogo.313c4e55.png": "/vishwasmodi/static/media/cflogo.313c4e55.png",
     "static/media/cybros.88eb4129.png": "/vishwasmodi/static/media/cybros.88eb4129.png",
@@ -21,7 +21,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0850ab66.js",
-    "static/js/2.25a4b588.chunk.js",
-    "static/js/main.35fbad93.chunk.js"
+    "static/js/2.39e58428.chunk.js",
+    "static/js/main.c54659d1.chunk.js"
   ]
 }
