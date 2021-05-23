@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/vishwasmodi/static/js/main.c54659d1.chunk.js",
-    "main.js.map": "/vishwasmodi/static/js/main.c54659d1.chunk.js.map",
+    "main.js": "/vishwasmodi/static/js/main.4103d677.chunk.js",
+    "main.js.map": "/vishwasmodi/static/js/main.4103d677.chunk.js.map",
     "runtime-main.js": "/vishwasmodi/static/js/runtime-main.0850ab66.js",
     "runtime-main.js.map": "/vishwasmodi/static/js/runtime-main.0850ab66.js.map",
     "static/js/2.39e58428.chunk.js": "/vishwasmodi/static/js/2.39e58428.chunk.js",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.0850ab66.js",
     "static/js/2.39e58428.chunk.js",
-    "static/js/main.c54659d1.chunk.js"
+    "static/js/main.4103d677.chunk.js"
   ]
 }
